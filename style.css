@@ -3,6 +3,12 @@ body {
     margin: 0;
     padding: 0;
   }
+
+
+  .dark-mode{
+    background-color: black;
+    color: white;
+  }
   
   header {
     background-color: #f1f1f1;
